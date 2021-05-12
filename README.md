@@ -17,6 +17,13 @@ of our view, even if they're all just straight in front of us.
 Anyway this didn't take long and was really instructive, I'd recommend
 trying it for yourself.
 
-
 ![Fisheye effect](screenshot/fisheye.png)
 
+
+
+How does a raycaster work? Explained by youtuber Javidx9
+https://www.youtube.com/watch?v=xW8skO7MFYw&t=536s
+
+Great book on the optimizations of 'Wolfenstein 3D', a raycasting game
+optimized to the point where it could run on extremely slow 386 computers:
+https://www.amazon.co.jp/dp/B0768B3PWV
